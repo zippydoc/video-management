@@ -4,7 +4,7 @@
       "section": "table_info",
       "videos": [
         {
-          // this is a default video for this section
+          
           "video_id": "master",
           "url": "https://youtube.com"
         },
@@ -16,15 +16,14 @@
 
     }
   ],
-  // script section videos 
+
   "script_videos": [
     {
-      // this is the script name
+
       "script_name": "clean",
-      // A script can have multiple video at
+   
       "videos": [
         {
-          // this is a default video for the clean script, for every script master will be the default video
           "video_id": "master",
           "url": "https://youtube.com"
         },
@@ -35,9 +34,9 @@
       ]
     },
     {
-      // this is the script name
+    
       "script_name": "label",
-      // A script can have multiple video at
+     
       "videos": [
         {
           "video_id": "master",
