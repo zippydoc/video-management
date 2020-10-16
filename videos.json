@@ -20,7 +20,7 @@
   "script_videos": [
     {
 
-      "script_name": "clean",
+      "script_name": "Clean",
    
       "videos": [
         {
@@ -35,7 +35,7 @@
     },
     {
     
-      "script_name": "label",
+      "script_name": "Label",
      
       "videos": [
         {
