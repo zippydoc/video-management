@@ -46,6 +46,17 @@
     },
     {
     
+      "script_name": "Binning",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/RKleF5pnh1g"
+        }
+      ]
+    },
+    {
+    
       "script_name": "Filter",
      
       "videos": [
