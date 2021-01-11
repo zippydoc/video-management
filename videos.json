@@ -57,6 +57,17 @@
     },
     {
     
+      "script_name": "Clean",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/ikVO8zKa8MM"
+        }
+      ]
+    },
+    {
+    
       "script_name": "Filter",
      
       "videos": [
