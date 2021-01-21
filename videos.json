@@ -68,6 +68,28 @@
     },
     {
     
+      "script_name": "Find",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/nSD1DeLcDj4"
+        }
+      ]
+    },
+    {
+    
+      "script_name": "Join",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/SpF68VMFfvc"
+        }
+      ]
+    },
+    {
+    
       "script_name": "Filter",
      
       "videos": [
