@@ -57,6 +57,17 @@
     },
     {
     
+      "script_name": "AddColumn",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/KYEQwAxlJf0"
+        }
+      ]
+    },
+    {
+    
       "script_name": "Clean",
      
       "videos": [
