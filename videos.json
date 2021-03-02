@@ -20,7 +20,7 @@
   "script_videos": [
     {
 
-      "script_name": "Clean",
+      "script_name": "clean",
    
       "videos": [
         {
@@ -35,18 +35,18 @@
     },
     {
     
-      "script_name": "Label",
+      "script_name": "label",
      
       "videos": [
         {
           "video_id": "master",
-          "url": "https://www.youtube.com/embed/wQ3_vQbfx1Y"
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
         }
       ]
     },
     {
     
-      "script_name": "Binning",
+      "script_name": "binning",
      
       "videos": [
         {
@@ -57,7 +57,7 @@
     },
     {
     
-      "script_name": "AddColumn",
+      "script_name": "addcolumn",
      
       "videos": [
         {
@@ -68,7 +68,7 @@
     },
     {
     
-      "script_name": "Clean",
+      "script_name": "clean",
      
       "videos": [
         {
@@ -79,7 +79,7 @@
     },
     {
     
-      "script_name": "Periodicy",
+      "script_name": "periodicy",
      
       "videos": [
         {
@@ -90,7 +90,7 @@
     },
     {
     
-      "script_name": "AddRow",
+      "script_name": "addrow",
      
       "videos": [
         {
@@ -101,7 +101,7 @@
     },
     {
     
-      "script_name": "Unique",
+      "script_name": "unique",
      
       "videos": [
         {
@@ -112,7 +112,7 @@
     },
     {
     
-      "script_name": "SumUp",
+      "script_name": "sumup",
      
       "videos": [
         {
@@ -123,7 +123,7 @@
     },
      {
     
-      "script_name": "Sort",
+      "script_name": "sort",
      
       "videos": [
         {
@@ -134,7 +134,7 @@
     },
     {
     
-      "script_name": "Find",
+      "script_name": "find",
      
       "videos": [
         {
@@ -145,7 +145,7 @@
     },
     {
     
-      "script_name": "Join",
+      "script_name": "join",
      
       "videos": [
         {
@@ -156,7 +156,7 @@
     },
     {
     
-      "script_name": "Filter",
+      "script_name": "filter",
      
       "videos": [
         {
