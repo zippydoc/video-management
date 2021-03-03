@@ -46,6 +46,17 @@
     }, 
     {
     
+      "script_name": "findreplace",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/MonvPqyZm98"
+        }
+      ]
+    }, 
+    {
+    
       "script_name": "split",
      
       "videos": [
