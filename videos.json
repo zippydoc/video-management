@@ -46,6 +46,248 @@
     }, 
     {
     
+      "script_name": "customrow",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "append",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "autofill",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "compare",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "convert",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "copy",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "datetime",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "delete",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "encrypt",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "export",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "formula",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "holiday",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "impactcurve",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "import",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "lookup",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "recordid",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "select",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "table",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "union",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "vectoraccess",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "webaccess",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "rename",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
       "script_name": "findreplace",
      
       "videos": [
