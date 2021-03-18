@@ -1,5 +1,22 @@
 {
-  "app_videos": [
+  "flow_videos": [
+    {
+      "section": "flow_info",
+      "videos": [
+        {
+          
+          "video_id": "master",
+          "url": "https://youtube.com"
+        },
+        {
+          "video_id": "1",
+          "url": "https://youtube.com"
+        }
+      ]
+
+    }
+  ],
+  "table_videos": [
     {
       "section": "table_info",
       "videos": [
