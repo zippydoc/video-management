@@ -69,21 +69,6 @@
   ],
 
   "script_videos": [
-        {
-
-      "script_name": "default_Script_Video",
-   
-      "videos": [
-        {
-          "video_id": "master",
-          "url": "https://youtube.com"
-        },
-        {
-          "video_id": "1",
-          "url": "https://youtube.com"
-        }
-      ]
-    },
     {
 
       "script_name": "clean",
