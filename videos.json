@@ -119,6 +119,17 @@
     }, 
     {
     
+      "script_name": "consolidate",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
       "script_name": "crosstab",
      
       "videos": [
@@ -141,7 +152,7 @@
     }, 
     {
     
-      "script_name": "directplanning",
+      "script_name": "direct_planning",
      
       "videos": [
         {
