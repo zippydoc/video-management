@@ -97,7 +97,7 @@
     }, 
     {
     
-      "script_name": "customrow",
+      "script_name": "addcustomrow",
      
       "videos": [
         {
@@ -185,7 +185,7 @@
     }, 
     {
     
-      "script_name": "finddublicates",
+      "script_name": "find_dublicate",
      
       "videos": [
         {
@@ -196,7 +196,7 @@
     }, 
     {
     
-      "script_name": "findgroup",
+      "script_name": "find_group",
      
       "videos": [
         {
@@ -207,7 +207,7 @@
     }, 
     {
     
-      "script_name": "findranges",
+      "script_name": "find_ranges",
      
       "videos": [
         {
@@ -218,7 +218,7 @@
     }, 
     {
     
-      "script_name": "flowpermission",
+      "script_name": "flow_permission",
      
       "videos": [
         {
@@ -229,7 +229,7 @@
     },
     {
     
-      "script_name": "replacebytable",
+      "script_name": "find_replace_by_table",
      
       "videos": [
         {
@@ -240,7 +240,7 @@
     }, 
     {
     
-      "script_name": "crosstabmultiheader",
+      "script_name": "crosstab_multi_header",
      
       "videos": [
         {
@@ -251,7 +251,7 @@
     }, 
     {
     
-      "script_name": "find-replace(text)",
+      "script_name": "find_replace_text",
      
       "videos": [
         {
@@ -262,7 +262,7 @@
     }, 
     {
     
-      "script_name": "mirrormatrix",
+      "script_name": "mirror_matrix",
      
       "videos": [
         {
@@ -273,7 +273,7 @@
     }, 
     {
     
-      "script_name": "rowbyrow",
+      "script_name": "multi_row",
      
       "videos": [
         {
@@ -295,7 +295,7 @@
     }, 
     {
     
-      "script_name": "setpoints",
+      "script_name": "set_points",
      
       "videos": [
         {
@@ -306,7 +306,7 @@
     }, 
     {
     
-      "script_name": "setpointsbytable",
+      "script_name": "set_points_by_table",
      
       "videos": [
         {
@@ -427,7 +427,7 @@
     }, 
     {
     
-      "script_name": "exporttodb",
+      "script_name": "export_to_db",
      
       "videos": [
         {
@@ -438,7 +438,7 @@
     }, 
     {
     
-      "script_name": "exporttofile",
+      "script_name": "export_to_file",
      
       "videos": [
         {
@@ -493,7 +493,7 @@
     }, 
     {
     
-      "script_name": "importfromdb",
+      "script_name": "import_from_db",
      
       "videos": [
         {
@@ -504,7 +504,7 @@
     }, 
     {
     
-      "script_name": "importdirectory",
+      "script_name": "import_from_dir",
      
       "videos": [
         {
@@ -515,7 +515,7 @@
     }, 
     {
     
-      "script_name": "importfile",
+      "script_name": "import_from_file",
      
       "videos": [
         {
@@ -559,7 +559,7 @@
     }, 
     {
     
-      "script_name": "tablepermission",
+      "script_name": "table_permission",
      
       "videos": [
         {
@@ -680,7 +680,7 @@
     },
     {
     
-      "script_name": "periodicybymenu",
+      "script_name": "periodicy_by_menu",
      
       "videos": [
         {
@@ -691,7 +691,7 @@
     },
     {
     
-      "script_name": "periodicybytable",
+      "script_name": "periodicy_by_table",
      
       "videos": [
         {
