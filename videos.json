@@ -97,12 +97,232 @@
     }, 
     {
     
-      "script_name": "addcustomrow",
+      "script_name": "customrow",
      
       "videos": [
         {
           "video_id": "master",
-          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "headertolabel",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "crosstab",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
+        }
+      ]
+    },
+    {
+    
+      "script_name": "curvegenerator",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "directplanning",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "email",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "expandlist",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "finddublicates",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "findgroup",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "findranges",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "flowpermission",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
+        }
+      ]
+    },
+    {
+    
+      "script_name": "replacebytable",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "crosstabmultiheader",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "findreplace(text)",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "mirrormatrix",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "rowbyrow",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "pay",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "setpoints",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "setpointsbytable",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "wordlookup",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
+        }
+      ]
+    },
+    {
+    
+      "script_name": "transform",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/XtcCbdItysk"
         }
       ]
     }, 
@@ -130,7 +350,7 @@
     }, 
     {
     
-      "script_name": "comparetables",
+      "script_name": "compare",
      
       "videos": [
         {
@@ -196,7 +416,18 @@
     }, 
     {
     
-      "script_name": "export",
+      "script_name": "exporttodb",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "exporttofile",
      
       "videos": [
         {
@@ -251,7 +482,29 @@
     }, 
     {
     
-      "script_name": "import",
+      "script_name": "importfromdb",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "importdirectory",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/lqSA8E3ZO0Y"
+        }
+      ]
+    }, 
+    {
+    
+      "script_name": "importfile",
      
       "videos": [
         {
@@ -295,7 +548,7 @@
     }, 
     {
     
-      "script_name": "table",
+      "script_name": "tablepermission",
      
       "videos": [
         {
@@ -416,7 +669,18 @@
     },
     {
     
-      "script_name": "periodicy",
+      "script_name": "periodicybymenu",
+     
+      "videos": [
+        {
+          "video_id": "master",
+          "url": "https://www.youtube.com/embed/RXFpWfduGrI"
+        }
+      ]
+    },
+    {
+    
+      "script_name": "periodicybytable",
      
       "videos": [
         {
