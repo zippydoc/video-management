@@ -108,7 +108,7 @@
     }, 
     {
     
-      "script_name": "headertolabel",
+      "script_name": "column_to_label",
      
       "videos": [
         {
@@ -174,7 +174,7 @@
     }, 
     {
     
-      "script_name": "expandlist",
+      "script_name": "expandcompress",
      
       "videos": [
         {
@@ -317,7 +317,7 @@
     }, 
     {
     
-      "script_name": "wordlookup",
+      "script_name": "string_lookup",
      
       "videos": [
         {
